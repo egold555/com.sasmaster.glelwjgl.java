@@ -1,2 +1,2 @@
 # com.sasmaster.glelwjgl.java
-com.sasmaster.glelwjgl.java Mirror. The original repo got removed.
+The original repo got removed, so this is a mirror
